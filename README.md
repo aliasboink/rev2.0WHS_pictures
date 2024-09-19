@@ -15,6 +15,7 @@
 
 ## Transmitter Pics (Right Hand)
 
+The two reversed diodes have been fixed.
 ![Transmitter 1 (Right)](images/transmitter_1R.jpg)
 
 ![Transmitter 2 (Right)](images/transmitter_2R.jpg)
