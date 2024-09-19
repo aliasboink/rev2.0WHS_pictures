@@ -11,7 +11,7 @@
 
 ![Arduino 1](images/arduino_1.jpg)
 
-![Arduino 2](images/arduino_1.jpg)
+![Arduino 2](images/arduino_2.jpg)
 
 ## Transmitter Pics (Right Hand)
 
